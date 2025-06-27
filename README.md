@@ -23,18 +23,18 @@ SleepIQ is a machine learning project that predicts sleep quality based on weara
 
 ## 📂 Folder Structure
 IT/
+
 ├── data/ # Raw or cleaned sensor data
+
 ├── notebooks/ # Jupyter notebooks and experiments
+
 ├── models/ # Trained models (if any)
+
 ├── scripts/ # Python scripts for preprocessing & training
+
 ├── results/ # Graphs, charts, evaluation metrics
+
 ├── README.md # Project overview
-
-yaml
-Copy
-Edit
-
----
 
 ## 🔍 How It Works
 
