@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sleep Quality Prediction</title>
+</head>
+<body>
+    <h2>Enter Wearable Data</h2>
+    <form method="POST">
+        {% for feature in features %}
+        <label>{{ feature }}</label>
+        <input type="text" name="{{ feature }}" required><br><br>
+        {% endfor %}
+        <input type="submit" value="Predict Sleep Quality">
+    </form>
+
+    {% if prediction %}
+        <h3>Prediction: {{ prediction }}</h3>
+    {% endif %}
+</body>
+</html>
