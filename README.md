@@ -16,7 +16,7 @@ SleepIQ is a machine learning project that predicts sleep quality based on weara
 
 - **Language:** Python
 - **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
-- **ML Models:** Logistic Regression, Random Forest, SVM (or your models)
+- **ML Models:** Logistic Regression, Random Forest, SVM 
 - **Platform:** Jupyter Notebook / VS Code
 
 ---
