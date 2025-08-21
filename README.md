@@ -4,14 +4,14 @@ SleepIQ is a machine learning project that predicts sleep quality based on weara
 
 ---
 
-## 📊 Project Overview
+## 📊 Project Overview 
 
 - 🧠 Uses wearable data to predict sleep quality
 - 📈 Applies data preprocessing, feature engineering, and ML models
 - ✅ Models evaluated using accuracy, precision, recall, and F1-score
-
+.....
 ---
-
+....
 ## 🛠️ Tech Stack
 
 - **Language:** Python
